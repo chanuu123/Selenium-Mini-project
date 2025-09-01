@@ -9,9 +9,9 @@
 
 ## Objectives
 
-*Automate product data collection from Croma using **Selenium**.
-*Clean and structure the data for analysis.
-*Build an interactive **Power BI dashboard** for visualization.
+* Automate product data collection from Croma using **Selenium**.
+* Clean and structure the data for analysis.
+* Build an interactive **Power BI dashboard** for visualization.
 
 ## Tech Stack
 
