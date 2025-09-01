@@ -15,11 +15,11 @@
 
 ## Tech Stack
 
-*Python 3 – Data processing and automation
-*Selenium – Web scraping automation
-*Pandas – Data cleaning and transformation
-*Power BI – Dashboard and visual analytics
-*ChromeDriver – Browser automation for Selenium
+* Python 3 – Data processing and automation
+* Selenium – Web scraping automation
+* Pandas – Data cleaning and transformation
+* Power BI – Dashboard and visual analytics
+* ChromeDriver – Browser automation for Selenium
 
 ## 📊 Features
 
