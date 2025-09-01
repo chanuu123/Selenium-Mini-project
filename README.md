@@ -34,11 +34,11 @@
 ## 📂 Project Structure
 
  selenium-croma-dashboard/
-│
-├── Selenium.ipynb               # Web scraping & cleaning script
-├── project selenium.pbix         # Power BI dashboard file
-├── dashboard.png                 # Dashboard preview image
-├── README.md                     # Project documentation
+* │
+* ├── Selenium.ipynb               # Web scraping & cleaning script
+* ├── project selenium.pbix         # Power BI dashboard file
+* ├── dashboard.png                 # Dashboard preview image
+* ├── README.md                     # Project documentation
 
 ## Future Enhancements
 
