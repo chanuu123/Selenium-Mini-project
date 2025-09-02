@@ -40,11 +40,7 @@
 * ├── dashboard.png                 # Dashboard preview image
 * ├── README.md                     # Project documentation
 
-## Future Enhancements
-
-* Add more product categories.
-* Schedule automated scraping at intervals.
-* Deploy an interactive web dashboard (e.g., using Streamlit).
+ 
 
 
 
