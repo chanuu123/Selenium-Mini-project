@@ -5,7 +5,7 @@
 
 ## Overview
 
- This project automates the extraction of product details from "https://www.croma.com/?utm_source=chatgpt.com", organizes the data, and provides key insights into pricing trends, category distribution, and top expensive products through visual analytics.
+ This project automates the extraction of product details from "https://www.croma.com/", organizes the data, and provides key insights into pricing trends, category distribution, and top expensive products through visual analytics.
 
 ## Objectives
 
